@@ -1,0 +1,12 @@
+{
+  "name": "mudita",
+  "version": "1.0.0",
+  "description": "Please create a simple web application that will work on web or mobile screens and automatically adjust for any size screen. The application should do the following:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
